@@ -1,1 +1,1 @@
-# Cuckoo-Search-Algorithm-for-optimizing-training-of-ResNet
+# Cuckoo-Search-Algorithm-to-Optimize-Training-of-ResNet
